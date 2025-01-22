@@ -2036,11 +2036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
       "projectName": "DatabaseTask.Data",
-      "projectPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Data\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2061,8 +2061,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
-              "projectPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj"
+            "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj"
             }
           }
         }

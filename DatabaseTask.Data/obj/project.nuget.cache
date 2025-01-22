@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Duf0RLAcweY=",
+  "dgSpecHash": "k4cRt7uy+Hg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Visual Studio save\\Database Task1\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

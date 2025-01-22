@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseTask.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e0daa5603efc295e97e0e4bd73f1c7405e16e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f8865c7bb979bd31440c5fb688940d2dc46932")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseTask.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseTask.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
